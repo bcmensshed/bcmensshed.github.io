@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What can you do in theSTEAMtruck?
+title: What can you do in a Mens Shed?
 excerpt_separator: <!--more-->
 ---
 
