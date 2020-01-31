@@ -8,4 +8,4 @@ excerpt_separator: <!--more-->
 
 ![_config.yml]({{ site.baseurl }}/images/SpannerAus.JPG)
 
-More info at this site: [https://malehealth.org.au/]
+More info at this site: (https://malehealth.org.au/)
