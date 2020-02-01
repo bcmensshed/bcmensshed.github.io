@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### BC Men's Shed 
+### BC Mens Shed Constitution
 
-To be filled in
+![_config.yml]({{ site.baseurl }}/images/Constitution.JPG)
 
