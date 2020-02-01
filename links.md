@@ -13,11 +13,17 @@ permalink: /links/
 
 [USA - Men's Shed Association](https://usmenssheds.com/)
 
+[Australian Men's Shed Association](https://mensshed.org/)
+
 [Irish Men's Shed Association](https://menssheds.ie/)
+
+[Scottish Men's Sheds Association](https://scottishmsa.org.uk/)
+
+[Wales - Men's Shed CYMRU](https://www.mensshedscymru.co.uk/association/)
 
 [UK Men's Shed Association](https://menssheds.org.uk/)
 
 [Menz Shed New Zealand](http://menzshed.org.nz/)
 
-
+[Denmark Men's Sheds - Facebook group](https://www.facebook.com/Denmark-Mens-Shed-432031067264356/)
 
