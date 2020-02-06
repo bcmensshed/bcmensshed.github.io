@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Scottish News Mag
+excerpt_separator: <!--more-->
+---
+
+#### Scottish News Magazine
+
+![_config.yml]({{ site.baseurl }}/images/Shedder.JPG)
+
+[https://scottishmsa.org.uk/wp-content/uploads/2019/12/Edition-11-December-2019.pdf](Read the Magazine here:)
