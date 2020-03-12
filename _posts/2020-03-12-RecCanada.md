@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Scottish News Mag
+title:  International News
 excerpt_separator: <!--more-->
 ---
 
-#### Scottish News Magazine
+#### International News
 
 ![_config.yml]({{ site.baseurl }}/images/RecCanada.JPG)
 
