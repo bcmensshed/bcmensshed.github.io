@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  May USA News
+title:  USA News
 excerpt_separator: <!--more-->
 ---
 
