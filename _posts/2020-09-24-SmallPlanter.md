@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Smaill Planter Kit
+title:  Small Planter Kit
 excerpt_separator: <!--more-->
 ---
 
