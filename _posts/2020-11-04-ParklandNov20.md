@@ -6,6 +6,6 @@ excerpt_separator: <!--more-->
 
 #### Mens Sheds Combatting Suicide
 
-![_config.yml]({{ site.baseurl }}/images/Suicide.JPG)
+![_config.yml]({{ site.baseurl }}/images/Suicide.jpg)
 
-More info at this site: https://menssheds.ca/cbc-looks-at-how-mens-sheds-is-combating-suicide/
+[Site Link](https://menssheds.ca/cbc-looks-at-how-mens-sheds-is-combating-suicide/)
