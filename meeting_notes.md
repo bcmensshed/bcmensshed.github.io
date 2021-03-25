@@ -4,7 +4,4 @@ title: Meeting Notes
 permalink: /meeting_notes/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Agendap1.jpg)
-![_config.yml]({{ site.baseurl }}/images/MinP1.jpg)
-![_config.yml]({{ site.baseurl }}/images/MinP2.jpg)
-![_config.yml]({{ site.baseurl }}/images/MinP3.jpg)
+Next meeting - Online - 29th April 2021 - 10:30am
